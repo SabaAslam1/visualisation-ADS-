@@ -91,7 +91,7 @@ def plot_yearly_transactions(df):
     plt.xticks(rotation=0)  # Rotate x-axis labels if needed
     plt.show()
 
-# Sample DataFrame (replace this with your actual DataFrame)
+# Read the DataFrame 
 df = pd.read_csv('Balaji Fast Food Sales.csv')
 
 # Using the functions
